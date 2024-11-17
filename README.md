@@ -3,10 +3,10 @@
 
 ### *REPOSITORY CONTENT*
 
-This repository consists a Jupyter notebook titled 'main.ipynb', The notebook is divided into two main sections:
+*This repository consists a Jupyter notebook titled 'main.ipynb', The notebook is divided into two main sections:*
 
-1. __MICHELIN RESTAURANTS IN ITALY__ building a tool to enhace the user experience, and helping users discover and rank Michelin-starred restaurants across Italy based on their unique preferences.
-2. __ALGORITHM QUESTION__ focused on robot packages collection with the fewest moves.
+*1. __MICHELIN RESTAURANTS IN ITALY__ building a tool to enhace the user experience, and helping users discover and rank Michelin-starred restaurants across Italy based on their unique preferences.
+2. __ALGORITHM QUESTION__ focused on robot packages collection with the fewest moves.*
 
 ## *MICHELIN RESTAURANTS IN ITALY*
 

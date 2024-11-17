@@ -7,7 +7,7 @@ Due to GitHub's rendering limitations, interactive maps created using libraries 
 
 You can view the interactive maps and visualizations by clicking the link below:
 
-👉 **[View Interactive Maps on nbviewer](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main%20%281%29.ipynb).
+👉 **[View Interactive Maps on nbviewer](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main.ipynb).
 
 ### *REPOSITORY CONTENT*
 

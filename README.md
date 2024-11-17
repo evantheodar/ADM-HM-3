@@ -1,7 +1,7 @@
 
 # *ADM-HW-3*   *GROUP - #5*
 
-#### We have encountered issues displaying the map in Jupyter Notebook, even though the notebook is marked as trusted. After uploading, it still shows an error. We kindly request you to review our project through this [NBVIEWER LINK](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main%20%281%29.ipynb).
+#### We have encountered issues displaying the map in Jupyter Notebook, even though the notebook is marked as trusted. After uploading, it still shows an error. We kindly request you to review our project through this [nbviewer LINK](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main%20%281%29.ipynb).
 
 ### *REPOSITORY CONTENT*
 

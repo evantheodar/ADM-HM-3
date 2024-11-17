@@ -12,9 +12,9 @@ This repository consists a Jupyter notebook titled 'main.ipynb', The notebook is
 
 ![image](https://github.com/user-attachments/assets/b2856b1d-d767-4790-b222-628a40204bde)
 
-*This project is a specialized search engine for food enthusiasts, designed to help users explore and rank Michelin-starred restaurants across Italy based on personalized preferences. It offers an efficient and intuitive way to discover exceptional dining experiences, inspired by the Michelin Guide's commitment to quality and innovation in gastronomy. This is based on a data collected from [Michelin Guide website](https://guide.michelin.com/en/it/restaurants)* 
-
 *The culinary arts have evolved into a refined expression of creativity, with Michelin-starred restaurants exemplifying quality and innovation. Recognizing the need for a tailored tool for food enthusiasts, you and your team are developing a search engine to help users explore and rank Michelin-starred restaurants in Italy based on their preferences. This platform aims to deliver an efficient and user-friendly experience for discovering Italy’s finest dining options.*
+
+*This project is a specialized search engine for food enthusiasts, designed to help users explore and rank Michelin-starred restaurants across Italy based on personalized preferences. It offers an efficient and intuitive way to discover exceptional dining experiences, inspired by the Michelin Guide's commitment to quality and innovation in gastronomy. This is based on a data collected from [Michelin Guide website](https://guide.michelin.com/en/it/restaurants)* 
 
 ## *ALGORITHM QUESTION*
 

@@ -19,3 +19,52 @@ This repository consists a Jupyter notebook titled 'main.ipynb', The notebook is
 ## *ALGORITHM QUESTION*
 
 *This project implements a solution for a robot navigation problem in a warehouse grid. The robot collects packages from specified coordinates, starting at (0, 0) and moving only up ('U') or right ('R'). The solution determines if all packages can be collected and, if possible, provides the lexicographically smallest path for the shortest collection route.*
+
+### INPUT
+
+~ The first line contains 
+t
+(
+1
+≤
+t
+≤
+10
+)
+ — the number of test cases.
+ 
+~ Each test case starts with 
+n
+(
+1
+≤
+n
+≤
+100
+)
+, the number of packages.
+
+~ The next 
+n
+ lines contain the coordinates 
+x
+i
+,
+y
+i
+(
+0
+≤
+x
+i
+,
+y
+i
+≤
+100
+)
+ for each package.
+
+### OUTPUT
+
+~ For each test case, print "YES" and the lexicographically smallest path, or "NO" if it’s impossible to collect all packages.

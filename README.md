@@ -1,7 +1,13 @@
 
 # *ADM-HW-3*   *GROUP - #5*
 
-#### We have encountered issues displaying the map in Jupyter Notebook, even though the notebook is marked as trusted. After uploading, it still shows an error. We kindly request you to review our project through this [nbviewer LINK](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main%20%281%29.ipynb).
+### *Interactive Map Visualization*
+
+Due to GitHub's rendering limitations, interactive maps created using libraries like Plotly or Folium cannot be displayed directly in this repository. To overcome this, we have provided an *nbviewer* link where you can view our interactive maps and visualizations.
+
+You can view the interactive maps and visualizations by clicking the link below:
+
+👉 **[View Interactive Maps on nbviewer](https://nbviewer.org/github/evantheodar/ADM-HM-3/blob/main/main%20%281%29.ipynb).
 
 ### *REPOSITORY CONTENT*
 
